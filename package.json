@@ -1,11 +1,8 @@
 {
-  "name": "keeper-app",
+  "name": "keeper-app-cardosohs",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "engines": {
-    "node": "12.16.1"
-  },
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.6.1",
